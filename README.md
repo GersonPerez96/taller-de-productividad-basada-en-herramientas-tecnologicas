@@ -34,4 +34,19 @@ Tecnologías utilizadas:
 Java 8 update 281
 NetBeans IDE
 
+Instalacion: 
+
+Descargar el proyecto
+Descomprimir el archivo para obtener la carpeta del proyecto
+Abrimos la carpeta del proyecto
+Abrimos la carpeta de bin en la cual encontraremos el archivo .jar
+Iniciamos el ejecutable
+
+Contribucion:
+
+Abrimos el repositorio
+En el branch "master" podemos encontrar la version mas actual del software y la mas completa y estable
+Del lado derecho tenemos la opcion de clone or download
+
+
 
